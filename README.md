@@ -1,4 +1,4 @@
-# Foobar
+# Startpage
 
 Minimal component-based start page to replace the typical search engine page.
 
